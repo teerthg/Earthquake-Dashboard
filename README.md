@@ -23,4 +23,10 @@ The dataset used for this dashboard includes earthquake information from multipl
 - **Map**: Geographical visualization of earthquake locations by region.
 - **Line Chart**: Used to analyze trends in earthquake occurrence over time.
 
+## 📣 Author
+Teerth Gupta
 
+## Contact Information:
+Email: teerthgupta19@gmail.com
+LinkedIn:[https://www.linkedin.com/in/teerth-gupta-52a248243/]
+Name-Teerth Gupta
