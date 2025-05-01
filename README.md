@@ -27,6 +27,6 @@ The dataset used for this dashboard includes earthquake information from multipl
 Teerth Gupta
 
 ## Contact Information:
-Email: teerthgupta19@gmail.com
-LinkedIn:[https://www.linkedin.com/in/teerth-gupta-52a248243/]
-Name-Teerth Gupta
+- Email: teerthgupta19@gmail.com
+- LinkedIn:[https://www.linkedin.com/in/teerth-gupta-52a248243/]
+- Name-Teerth Gupta
